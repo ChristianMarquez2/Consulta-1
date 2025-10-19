@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Habilidades de Jhin</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="dark-theme">
+
+  <!-- PASIVA -->
+  <ion-card *ngIf="pasiva">
+    <ion-card-header>
+      <ion-card-title>Pasiva • {{ pasiva.name }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <img [src]="getIconPassive()" class="icon" />
+      <p>{{ pasiva.description }}</p>
+    </ion-card-content>
+  </ion-card>
+
+  <!-- Q W E R -->
+  <ion-card *ngFor="let spell of habilidades">
+    <ion-card-header>
+      <ion-card-title>{{ spell.name }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <img [src]="getIconSpell(spell)" class="icon" />
+      <p [innerHTML]="spell.description"></p>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>
