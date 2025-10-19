@@ -151,6 +151,7 @@ El archivo APK funcional está disponible en:
 
 
 🧑‍💻 Autor
+<img width="336" height="509" alt="Captura de pantalla 2025-10-19 160454" src="https://github.com/user-attachments/assets/db9c4244-2de0-4ebb-a455-de58051cf004" />
 
 Christian Márquez
 
