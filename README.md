@@ -69,7 +69,7 @@ Instalar lo siguiente:
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL_DE_TU_REPOSITORIO>
+git clone https://github.com/ChristianMarquez2/Consulta-1.git
 cd MiAplicaciónX
 
 # 2. Instalar dependencias
