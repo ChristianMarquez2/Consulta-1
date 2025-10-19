@@ -137,14 +137,22 @@ El archivo APK funcional está disponible en:
 
 ### 📸 Capturas de Pantalla
 
-| Pantalla | Imagen |
-|----------|--------|
-| **Inicio** | ![Inicio](https://github.com/user-attachments/assets/60c7ef2a-7e72-46b9-b38d-5115d7a77e96) |
-| **Habilidades** | ![Habilidades](https://github.com/user-attachments/assets/7b88df7d-e243-4fba-99dc-7eb9c077f55a) |
-| **Análisis** | ![Análisis](https://github.com/user-attachments/assets/3b77d227-33d8-4e73-8a40-560669e3503d) |
-| **Instalación** | ![Instalación](https://github.com/user-attachments/assets/c2685925-2f0b-4597-9540-12cd5f8562fd) |
+**Inicio (Jhin – Lore)**  
+![Inicio](https://github.com/user-attachments/assets/60c7ef2a-7e72-46b9-b38d-5115d7a77e96)
+
+**Habilidades (Q, W, E, R + Pasiva)**  
+![Habilidades](https://github.com/user-attachments/assets/7b88df7d-e243-4fba-99dc-7eb9c077f55a)
+
+**Análisis de la Aplicación**  
+![Análisis](https://github.com/user-attachments/assets/3b77d227-33d8-4e73-8a40-560669e3503d)
+
+**Instalación de la App en Android**  
+![Instalación](https://github.com/user-attachments/assets/c2685925-2f0b-4597-9540-12cd5f8562fd)
 
 
 🧑‍💻 Autor
 
 Christian Márquez
+
+<img width="498" height="794" alt="image" src="https://github.com/user-attachments/assets/5856b219-6a30-4bd0-b1c5-643f71f38122" />
+
