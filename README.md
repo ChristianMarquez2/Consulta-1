@@ -134,6 +134,7 @@ MiAplicaciónX/
 📦 APK Incluida
 
 El archivo APK funcional está disponible en:
+/APK
 
 ### 📸 Capturas de Pantalla
 
@@ -151,9 +152,7 @@ El archivo APK funcional está disponible en:
 
 
 🧑‍💻 Autor
-<img width="336" height="509" alt="Captura de pantalla 2025-10-19 160454" src="https://github.com/user-attachments/assets/db9c4244-2de0-4ebb-a455-de58051cf004" />
 
 Christian Márquez
 
-<img width="498" height="794" alt="image" src="https://github.com/user-attachments/assets/5856b219-6a30-4bd0-b1c5-643f71f38122" />
 
