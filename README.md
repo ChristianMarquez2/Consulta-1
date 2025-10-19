@@ -1,16 +1,17 @@
 # 📌 MiAplicaciónX
 
-Aplicación móvil desarrollada con **Ionic Angular** y **Capacitor**, compilada para Android y configurada con permisos nativos, ícono personalizado, splash screen y generación de APK lista para instalación en dispositivos reales.
+Aplicación móvil desarrollada con **Ionic Angular** y **Capacitor**, compilada para Android, con consumo de API de League of Legends y configurada con permisos nativos, ícono personalizado, splash screen y generación de APK lista para instalación en dispositivos reales.
 
 ---
 
 ## 🚀 Tecnologías Utilizadas
 
 - **Ionic** (Framework UI híbrido)
-- **Angular** (Frontend SPA)
+- **Angular Standalone** (Frontend SPA)
 - **Capacitor** (Acceso a funcionalidades nativas)
 - **Android Studio** (Compilación nativa y generación de APK)
 - **Node / npm**
+- **League of Legends Data Dragon API** (Consumo de datos de campeones)
 
 ---
 
@@ -25,7 +26,28 @@ Aplicación móvil desarrollada con **Ionic Angular** y **Capacitor**, compilada
 - Ícono personalizado generado con `capacitor-assets`
 - Splash Screen configurado con `@capacitor/splash-screen`
 - Compatibilidad con Android 12+
+- **Consumo dinámico de API para mostrar información de Jhin**
+- **Pantalla con detalle de habilidades (Pasiva, Q, W, E, R)**
 - APK funcional incluida en el repositorio
+
+---
+
+## 🎮 Integración con League of Legends
+
+Este proyecto consume datos oficiales desde la API estática **Data Dragon**, por ejemplo:
+
+| Recurso | URL |
+|---------|-----|
+| Info de Jhin | `https://ddragon.leagueoflegends.com/cdn/14.6.1/data/es_ES/champion/Jhin.json` |
+| Splash | `https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg` |
+| Iconos de habilidades | `https://ddragon.leagueoflegends.com/cdn/14.6.1/img/spell/` |
+
+Pantallas incluidas:
+
+| Pantalla | Descripción |
+|----------|------------|
+| **Home** | Muestra splash, nombre, título y lore de Jhin |
+| **Habilidades** | Muestra pasiva + habilidades con ícono y descripción |
 
 ---
 
@@ -56,7 +78,8 @@ npm install
 # 3. Ejecutar en navegador (opcional)
 ionic serve
 
-Compilación Web + Sincronización con Android
+
+📌 Compilación Web + Sincronización con Android
 # Construir app web (genera carpeta www/)
 ionic build
 
@@ -65,7 +88,6 @@ npx cap sync android
 
 # Abrir Android Studio
 npx cap open android
-
 
 📌 Generación de APK (Android Studio)
 
@@ -113,8 +135,7 @@ MiAplicaciónX/
 
 El archivo APK funcional está disponible en:
 
-/apk/MiAplicaciónX.apk
 
 🧑‍💻 Autor
 
-Christian
+Christian Márquez
