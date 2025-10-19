@@ -135,6 +135,15 @@ MiAplicaciónX/
 
 El archivo APK funcional está disponible en:
 
+📸 Capturas de Pantalla
+Pantalla	Vista
+Inicio (Jhin – Lore)	<img width="503" height="799" alt="Pantalla de Inicio" src="https://github.com/user-attachments/assets/60c7ef2a-7e72-46b9-b38d-5115d7a77e96" />
+Habilidades (Q, W, E, R + Pasiva)	<img width="498" height="794" alt="Pantalla de Habilidades" src="https://github.com/user-attachments/assets/7b88df7d-e243-4fba-99dc-7eb9c077f55a" />
+Análisis de la Aplicación	<img width="336" height="509" alt="Pantalla de Análisis" src="https://github.com/user-attachments/assets/3b77d227-33d8-4e73-8a40-560669e3503d" />
+Instalación de la App en Android	<img width="300" alt="Instalación en dispositivo" src="https://github.com/user-attachments/assets/c2685925-2f0b-4597-9540-12cd5f8562fd" /> 
+
+
+
 
 🧑‍💻 Autor
 
